@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Group26_Inclass05</string>
+    <string name="Btn_Go">Go</string>
+
+    <string-array name="spinnerarray">
+        <item>
+            UNCC
+        </item>
+    <item>
+        Android
+    </item>
+    <item>
+        Winter
+    </item>
+    <item>
+        Aurora
+    </item>
+    <item>
+        Wonders
+    </item>
+    </string-array>
+
+</resources>
